@@ -1,0 +1,23 @@
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+content-length: 0
+content-type: application/x-www-form-urlencoded
+cookie: dpr=1.25; datr=YJbSY8ewragTrhaT1T04NAe3; mid=Y9KWZAALAAHw6D49BLVLYq7_n80N; ig_did=B06B5E5E-CD7D-46A9-A952-AF4AC2CF1812; ig_nrcb=1; shbid="14566\05450583622787\0541706282336:01f7b00652ce52be1c5d2d5bc857f239e47fae8dc1ef628ad14e35cc82770bce189b6363"; shbts="1674746336\05450583622787\0541706282336:01f717380a088286e6ee74011b5efe20c6ac0cfdf2d133dc60d078c1fad645c829cb1781"; csrftoken=WV3dnwmhEQNbz4RcSHikh89fdpU9Te1b; ds_user_id=50583622787; sessionid=50583622787%3AZR1oyzTT0yc6qd%3A13%3AAYcPFcTlUMMC0S1Zo8sYzdJEGr9p4Ki8-FJsdegfYA; rur="EAG\05450583622787\0541706375524:01f7d12497eae671d2377f2c535fa8af5e9edca8603486570facff21af07a437b6658627"
+origin: https://www.instagram.com
+referer: https://www.instagram.com/oxyop23/following/
+sec-ch-prefers-color-scheme: dark
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+viewport-width: 982
+x-asbd-id: 198387
+x-csrftoken: WV3dnwmhEQNbz4RcSHikh89fdpU9Te1b
+x-ig-app-id: 936619743392459
+x-ig-www-claim: hmac.AR2y1BUoJTLIDbTqC4t-qvy1Xp33ZdpQhSPzrOAZNDhQ54Ze
+x-instagram-ajax: 1006873778
+x-requested-with: 
